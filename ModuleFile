@@ -1,0 +1,4 @@
+name 'puppet-httpd'
+version '0.0.1'
+dependency ''
+description 'Sets up apache and virtualhost definitions.'
